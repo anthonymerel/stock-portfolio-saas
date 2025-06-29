@@ -1,0 +1,51 @@
+# 📦 Node modules
+node_modules/
+
+# 🔑 Variables d'environnement
+.env
+.env.local
+.env.production
+
+# 💻 Fichiers système Mac
+.DS_Store
+
+# 🏗️ Build de Next.js
+.next/
+
+# 🧪 Fichiers de test temporaires
+coverage/
+
+# 🛠️ Logs et autres fichiers inutiles
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules
+.next/
+.env
+.env.local
+*.log
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
